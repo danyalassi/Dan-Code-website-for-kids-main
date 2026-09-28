@@ -1,0 +1,14 @@
+{
+    "name": "danya/dan-code-website-for-kids-main",
+    "autoload": {
+        "psr-4": {
+            "Danya\\DanCodeWebsiteForKidsMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danyal Assi"
+        }
+    ],
+    "require": {}
+}

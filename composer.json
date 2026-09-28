@@ -1,5 +1,7 @@
 {
     "name": "danya/dan-code-website-for-kids-main",
+    "description": "A small website project for kids.",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Danya\\DanCodeWebsiteForKidsMain\\": "src/"
